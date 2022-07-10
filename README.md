@@ -1,4 +1,4 @@
-# Spiral (in turtle)
+# Spiral GUI
 
 ➤ **A simple spiral made through turtle module in Python**
 
