@@ -8,7 +8,7 @@
 
 `pip install PythonTurtle`
 
-*Linux-*
+**Linux-**
 
 `sudo apt-get install -y python3-wxgtk4.0`
 
