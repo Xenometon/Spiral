@@ -4,12 +4,15 @@
 
 **Dependencies-**
 
-*Windows-*
+:- *Windows-*
 
 `pip install PythonTurtle`
 
-**Linux-**
+:- **Linux-**
 
 `sudo apt-get install -y python3-wxgtk4.0`
 
 ➟ _Use the above links to get the necessary packages._
+
+
+--------------
