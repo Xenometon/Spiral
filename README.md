@@ -6,13 +6,13 @@
 
 :- *Windows-*
 
-`pip install PythonTurtle`
+- `pip install PythonTurtle`
 
 :- **Linux-**
 
-`sudo apt-get install -y python3-wxgtk4.0`
+- `sudo apt-get install -y python3-wxgtk4.0`
 
-➟ _Use the above links to get the necessary packages._
+> _Use the above links to get the necessary packages._
 
 
 --------------
